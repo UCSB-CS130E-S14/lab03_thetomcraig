@@ -1,4 +1,4 @@
-lab03_thetomcraig
-=================
+CS130E-S14-Labs
+===============
 
-lab03 for Tom Craig
+labs for CS130E-S14
